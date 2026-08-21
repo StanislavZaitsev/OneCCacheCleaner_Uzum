@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="Win32" />
+  </Configurations>
+  <Project Path="OneCCacheCleaner/OneCCacheCleaner.vcxproj" />
+</Solution>
